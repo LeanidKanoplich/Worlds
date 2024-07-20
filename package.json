@@ -1,10 +1,11 @@
 {
-  "name": "worlds",
-  "version": "0.0.0",
+  "name": "toy-clicker-game",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "start": "vite preview --port 8080" // Добавьте этот скрипт
   },
   "dependencies": {
     "react": "^18.0.0",
